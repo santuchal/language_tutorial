@@ -1,0 +1,14 @@
+# Minimum of two numbers
+# Given two integers, print the smaller value. 
+# Test:
+# 3
+# 7		3
+
+# 2
+# 2		2
+
+# 15
+# -8		-8
+
+# -15
+# -8		-15

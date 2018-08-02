@@ -1,0 +1,27 @@
+# Equal numbers
+
+# Given three integers, determine how many of them are equal to each other. The program must print one of these numbers: 3 (if all are the same), 2 (if two of them are equal to each other and the third is different) or 0 (if all numbers are different)
+# Test:
+# 10
+# 5
+# 10		2
+
+# 17
+# 17
+# -9		2
+
+# 4
+# -82
+# -82		2
+
+# 5
+# 2
+# 4		0
+
+# -149
+# -146
+# -142		0
+
+# 666
+# 666
+# 666		3
